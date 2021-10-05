@@ -16,7 +16,7 @@ void setup() {
 void draw() {
   background(51,100,200);
   rectMode(CENTER);
-  fill(15,200,100);
+  fill(100,15,200);
   rect(width/2, height/2+250,800,200);
   
   fill(255);
