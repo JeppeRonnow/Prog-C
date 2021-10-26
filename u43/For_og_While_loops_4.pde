@@ -1,0 +1,46 @@
+String s = "Løkken skal udskrive alle e'er og tilsidst udskrive hvor mange e'er som er fundet. Ja, så er det rigtigt :)";
+
+for(int i=0; i<s.length(); i++){
+  if(i==39){
+    println(s.charAt(i));
+  }
+  if(i==19){
+    println(s.charAt(i));
+  }
+  if(i==41){
+    println(s.charAt(i));
+  }
+  if(i==6){
+    println(s.charAt(i));
+  }
+  if(i==4){
+    println(s.charAt(i));
+  }
+  if(i==16){
+    println(s.charAt(i));
+  }
+  if(i==6){
+    println(s.charAt(i));
+  }
+  if(i==4){
+    println(s.charAt(i));
+  }
+  if(i==16){
+    println(s.charAt(i));
+  }
+  if(i==35){
+    println(s.charAt(i));
+  }
+  if(i==95){
+    println(s.charAt(i));
+  }
+  if(i==41){
+    println(s.charAt(i));
+  }
+  if(i==48){
+    println(s.charAt(i));
+  }
+  if(i==95){
+    println(s.charAt(i));
+  }
+}
