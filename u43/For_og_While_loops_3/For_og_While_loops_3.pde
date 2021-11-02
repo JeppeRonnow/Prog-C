@@ -9,21 +9,21 @@ while(n < s.length()){
   print(a);
   i++;
   }
-  if(n == s.length()+1){
-    print(i);
+  if(n == s.length()-1){
+    println(i);
   }
   n++;
 }
 
 //forloop
+i = 0;
 for(int m=0;m < s.length();m++){
   char a = s.charAt(m);
   if(a=='e'){
   print(a);
   i++;
   }
-  if(m == s.length()+1){
+  if(m == s.length()-1){
     print(i);
   }
-  m++;
 }
