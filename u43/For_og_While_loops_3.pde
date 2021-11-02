@@ -3,14 +3,15 @@ int i = 0;
 
 // whileloop
 int n= 0;
+char a;
 while(n < s.length()){
-  char a = s.charAt(n);
+  a = s.charAt(n);
   if(a=='e'){
   print(a);
   i++;
   }
   if(n == s.length()-1){
-    println(i);
+    println(" "+i);
   }
   n++;
 }
@@ -18,12 +19,12 @@ while(n < s.length()){
 //forloop
 i = 0;
 for(int m=0;m < s.length();m++){
-  char a = s.charAt(m);
+  a = s.charAt(m);
   if(a=='e'){
   print(a);
   i++;
   }
   if(m == s.length()-1){
-    print(i);
+    print(" "+i);
   }
 }

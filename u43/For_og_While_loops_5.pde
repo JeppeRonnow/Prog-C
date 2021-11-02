@@ -1,4 +1,2 @@
 String s = "Løkken skal udskrive alle e'er og tilsidst udskrive hvor mange e'er som er fundet. Ja, så er det rigtigt :)";
-
-int l = s.length();
-print(l);
+print(s.length());

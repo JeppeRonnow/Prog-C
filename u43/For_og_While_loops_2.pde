@@ -1,7 +1,5 @@
-boolean tael = false;
 int i = 0;
-
-while(!tael){
+while(i<=30){
    if(i>=10 && i<=20){
      println(i);
    }
