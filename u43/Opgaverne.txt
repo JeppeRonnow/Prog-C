@@ -1,0 +1,25 @@
+1) Lav henholdsvis en for-løkke og en while-løkken som udskriver de første 5. karakterer i sætningen "Hej med dig!". Tip, brug 	
+charAt() sammen med din tæller i.
+
+2) Lav henholdsvis en for-løkke og en while-løkken som skal gennem løbes 30 gange. Start med i=0; og tæl i op hver gang du løber gennem løkken. Den skal kun udskrive i, når i er mellem værdien 10 til og med 20.
+
+3) Lav henholdsvis en for-løkke og en while-løkken som skal finde alle e'er i sætningen: 
+"Dette er en sætning som indeholder mange e'er. Men hvor mange er der?"
+Løkken skal udskrive alle e'er og tilsidst udskrive hvor mange e'er som er fundet.
+
+4) Lav et program som udskriver bogstaverne fra position: 39,19,41,6,4,16,6,16,35,99,41,48,99,95 til skærmen. Brug sætningen "Løkken skal udskrive alle e'er og tilsidst udskrive hvor mange e'er som er fundet. Ja, så er det rigtigt :)"
+5) Lav et program som kan udskrive længden af overstående sætning.
+6) Lav et program som klipper i vores streng. Den skal tage fra position 83 og til slut. Udskriv den nye streng.
+7) Lav et program som klipper i vores streng. Den skal tage fra position 83 og til 85. Udskriv den nye streng.
+8) Lav hele sætningen om til store bogstaver og udskrive den. 	
+9) Lav hele sætningen om til små bogstaver og udskrive den.
+10) læs og forstå følgende program:
+
+String str2 =  "Nej";
+if (str2.equals("ja"))
+  println ("Det gør den!");
+ else
+  println ("Det gør den ikke!");
+ 
+a) hvad udskriver programmet?
+b) hvordan kan du få programmet til at udskrive det modsatte af, hvad den gør nu?
